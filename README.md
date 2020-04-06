@@ -1,2 +1,3 @@
-# BrandenBedoya.github.io
-My Website
+# brandenbedoya.com
+My first personal website
+Looking to include: blogs, videos, podcasts, experiences, etc :)
